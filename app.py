@@ -47,7 +47,8 @@ def predict_caption(model, features, tokenizer, max_length):
         in_text += " " + word
         if word == 'endseq':
             break
-    return in_text
+    # return in_text
+    return ' '.join(in_text.split()[1:-1])  # Remove 'startseq' and 'endseq'
 
 # Function to extract features using VGG16 model
 def extract_features(image):
