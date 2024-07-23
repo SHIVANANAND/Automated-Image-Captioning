@@ -1,5 +1,5 @@
 streamlit
-tensorflow
+tensorflow==3.4.1
 numpy
 pillow
 requests
