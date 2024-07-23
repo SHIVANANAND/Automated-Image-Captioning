@@ -47,6 +47,11 @@ To run this project locally, follow these steps:
 2. The application will display the uploaded image.
 3. A caption will be generated and displayed below the image.
 
+## Contributors
+[SHIVAN ANAND](https://github.com/SHIVANANAND) <BR>
+[ANIRUDH SHUKLA](https://github.com/Anirudh-Shukla) <BR>
+[GAURAV KUMAR CHAURASIYA](https://github.com/gauravkumarchaurasiya) <BR>
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
