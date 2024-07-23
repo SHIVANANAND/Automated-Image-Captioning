@@ -39,7 +39,6 @@ To run this project locally, follow these steps:
 - `app.py`: Main application file for Streamlit.
 - `requirements.txt`: List of Python packages required for the project.
 - `tokenizer.pkl`: Pre-trained tokenizer.
-- `features.pkl`: Pre-extracted features for the image captioning model.
 - `best_model.h5`: Pre-trained image captioning model.
 
 ## Usage
