@@ -51,6 +51,7 @@ To run this project locally, follow these steps:
 [SHIVAN ANAND](https://github.com/SHIVANANAND) <BR>
 [ANIRUDH SHUKLA](https://github.com/Anirudh-Shukla) <BR>
 [GAURAV KUMAR CHAURASIYA](https://github.com/gauravkumarchaurasiya) <BR>
+[HARDIK SINGH](https://github.com/hardiks004/)
 
 ## Contributing
 
